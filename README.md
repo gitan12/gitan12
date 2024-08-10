@@ -1,6 +1,4 @@
-Here's an enhanced version of your README file with the skills section at the top and projects listed last:
 
----
 
 # 👋 Hello! I'm Anurag Belel
 
@@ -79,4 +77,3 @@ Welcome to my GitHub repository! I’m passionate about using data to solve comp
 
 ---
 
-This version places your skills front and center, highlighting your technical prowess before diving into your impressive projects. It also adds a bit more personality with strategic use of emojis while maintaining a professional tone.
