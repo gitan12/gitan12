@@ -39,9 +39,9 @@ Welcome to my GitHub repository! I’m passionate about using data to solve comp
   *Modules:* Python, SQL, Machine Learning, Deep Learning, Time Series Analysis
 
 ## 📜 Certifications
+- **IBM:** IBM Data Science Specialization
+- **Cisco Networking Academy:** Data Analytics Essentials
 - **Cisco Networking Academy:** Introduction to Data Science
-- **IBM:** Data Science Specialization
-- **IBM:** Data Analytics Essentials
 
 ## 🌟 Achievements & Extra-Curricular Activities
 - **Kaggle Competitions:** Participated in flood prediction, credit risk analysis, and house price prediction challenges.
